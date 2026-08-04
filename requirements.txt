@@ -1,0 +1,7 @@
+requests
+groq
+python-dotenv
+scikit-learn
+pandas
+joblib
+torch
